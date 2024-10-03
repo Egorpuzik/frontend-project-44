@@ -1,0 +1,21 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "mkdir bin",
+  "main": "index.js",
+  "scripts": {
+    "test": "touch bin/brain-games.js"
+  },
+  "author": "Egor",
+  "license": "ISC",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node bin/brain-games.js"
+  },
+  "keywords": [
+    "0000"
+  ]
+}
