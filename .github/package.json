@@ -1,6 +1,6 @@
 {
   "name": "@hexlet/code",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "mkdir bin",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,8 @@
   },
   "keywords": [
     "0000"
-  ]
+  ],
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
