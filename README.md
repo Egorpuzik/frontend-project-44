@@ -4,3 +4,4 @@
 [![Instruction]"C:\Users\egore\frontend-project-44\Демонстрация игры Brain Even.txt"]
 [![Сalculator](c:\Users\egore\frontend-project-44\Игра Калькулятор.txt)]
 [![Greatest Common Divisor](c:\Users\egore\frontend-project-44\Наибольший Общий Делитель.txt)]
+[![Brain Progression Game](c:\Users\egore\frontend-project-44\Brain Progression Game.txt)]
