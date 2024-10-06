@@ -3,3 +3,4 @@
 [![Actions Status](https://github.com/Egorpuzik/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Egorpuzik/frontend-project-44/actions)
 [![Instruction]"C:\Users\egore\frontend-project-44\Демонстрация игры Brain Even.txt"]
 [![Сalculator](c:\Users\egore\frontend-project-44\Игра Калькулятор.txt)]
+[![Greatest Common Divisor](c:\Users\egore\frontend-project-44\Наибольший Общий Делитель.txt)]
