@@ -5,3 +5,4 @@
 [![Сalculator](c:\Users\egore\frontend-project-44\Игра Калькулятор.txt)]
 [![Greatest Common Divisor](c:\Users\egore\frontend-project-44\Наибольший Общий Делитель.txt)]
 [![Brain Progression Game](c:\Users\egore\frontend-project-44\Brain Progression Game.txt)]
+[![brain-prime](c:\Users\egore\frontend-project-44\brain-prime.txt)]
