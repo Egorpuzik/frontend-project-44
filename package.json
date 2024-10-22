@@ -1,7 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.2",
-  "description": "Console brain games in JS",
+  "description": "Add detailed description of 'Brain Games' and its maths games",
   "scripts": {
     "lint": "eslint ."
   },
@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
-    "eslint": "^9.11.1",
+    "eslint": "^9.12.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.31.0",
     "globals": "^15.10.0"
