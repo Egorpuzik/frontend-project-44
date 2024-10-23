@@ -4,7 +4,7 @@ import readlineSync from 'readline-sync';
 
 const isPrime = (num) => {
   if (num <= 1) return false;
-  for (let i = 2; i <= Math.sqrt(num); i++) {
+  for (let i = 2; i <= Math.sqrt(num); i += 1) {
     if (num % i === 0) return false;
   }
   return true;
@@ -18,7 +18,7 @@ const playGame = () => {
   console.log(`Hello, ${name}!`);
   console.log('Answer "yes" if the given number is prime. Otherwise answer "no".');
 
-  for (let i = 0; i < 3; i++) {
+  for (let i = 0; i < 3; i += 1) {
     const question = getRandomNumber(1, 100);
     const correctAnswer = isPrime(question) ? 'yes' : 'no';
 

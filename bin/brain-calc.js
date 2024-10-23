@@ -24,7 +24,7 @@ const playCalcGame = () => {
   console.log('What is the result of the expression?');
 
   const operations = ['+', '-', '*'];
-  const roundsToWin = 3; 
+  const roundsToWin = 3;
   for (let round = 1; round <= roundsToWin; round += 1) {
     const num1 = getRandomInt(1, 20);
     const num2 = getRandomInt(1, 20);
@@ -41,7 +41,7 @@ const playCalcGame = () => {
     } else {
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
       console.log(`Let's try again, ${userName}!`);
-      return; 
+      return;
     }
   }
 

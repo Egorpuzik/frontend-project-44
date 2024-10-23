@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import readlineSync from 'readline-sync';
-import { randomInt } from './utils.js'; 
+import randomInt from '../src/utils.js';
 
 const progressionLength = 10;
 
