@@ -1,8 +1,8 @@
+// src/games/calc.js
 import runGame from '../index.js';
+import getRandomInt from '../utils.js';
 
 const description = 'What is the result of the expression?';
-
-const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
 
 const calculate = (num1, num2, operator) => {
   switch (operator) {
