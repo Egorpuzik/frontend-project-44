@@ -1,6 +1,6 @@
 // src/games/gcd.js
 import runGame from '../index.js';
-import generateRandomNumber from '../utill.js';
+import generateRandomNumber from '../utils.js';
 
 const gcd = (a, b) => {
   let num1 = a;

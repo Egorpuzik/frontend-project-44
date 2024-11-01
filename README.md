@@ -8,7 +8,7 @@
 Чтобы установить игру, выполните следующую команду:
 
 ```bash
-npm install -g brain-even
+npm install -g brain-even```
 
 Чтобы запустить игру, выполните следующую команду:
  brain-even
@@ -83,7 +83,7 @@ brain-progression
 
 ```bash
 npm install
-npm start brain-prime
+npm start brain-prime```
 
 Yes -  простое число
 No - сложное число
