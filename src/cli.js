@@ -1,4 +1,3 @@
-// src/cli.js
 const readlineSync = require('readline-sync');
 
 const greetUser = () => {

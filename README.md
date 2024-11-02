@@ -16,7 +16,7 @@ npm install -g brain-even```
 Пример победы: "Congratulations, ...!"
 
 Пример поражения: "'yes' is wrong answer ;(. Correct answer was 'no'.
-Let's try again, ...!";
+Let's try again, ...!" ;
 
 # Игра: Калькулятор
 
@@ -28,7 +28,7 @@ brain-calc
 
 В начале игры введите свое имя:
 
-May I have your name?
+May I have your name?;
 
 Пример победы:
 
@@ -37,7 +37,7 @@ Congratulations, !
 
 Пример поражения:
 
-... is wrong answer ;
+... is wrong answer;
 Let's try again, !
 
 # Игра: "Наибольший Общий Делитель" (НОД)

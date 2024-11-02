@@ -1,4 +1,3 @@
-// src/games/progression.js
 import runGame from '../index.js';
 import randomInt from '../utils.js';
 

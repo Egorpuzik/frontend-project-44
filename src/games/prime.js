@@ -1,4 +1,3 @@
-// src/games/prime.js
 import runGame from '../index.js';
 import getRandomNumber from '../utils.js';
 

@@ -1,4 +1,3 @@
-// src/games/gcd.js
 import runGame from '../index.js';
 import generateRandomNumber from '../utils.js';
 
