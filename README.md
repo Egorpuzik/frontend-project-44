@@ -28,7 +28,7 @@ brain-calc
 
 В начале игры введите свое имя:
 
-May I have your name?
+'May I have your name?'
 
 Пример победы:
 
@@ -37,7 +37,7 @@ May I have your name?
 
 Пример поражения:
 
-... is wrong answer;
+'... is wrong answer;'
 Let's try again, !
 
 # Игра: "Наибольший Общий Делитель" (НОД)
