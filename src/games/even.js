@@ -1,6 +1,5 @@
 import readlineSync from 'readline-sync';
-
-const getRandomNumber = () => Math.floor(Math.random() * 100);
+import getRandomNumber from '../utils.js';
 
 const playEvenGame = () => {
   console.log('Welcome to the Brain Games!');
