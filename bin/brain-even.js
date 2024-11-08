@@ -1,4 +1,6 @@
 #!/usr/bin/env node
-import playEvenGame from '../src/games/even.js';
+import playGame from '../src/index.js';
+import getEvenGameData from '../src/games/even.js';
 
-playEvenGame();
+const gameDescription = 'Answer "yes" if the number is even, otherwise answer "no".';
+playGame(gameDescription, getEvenGameData);
