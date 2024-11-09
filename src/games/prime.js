@@ -9,7 +9,7 @@ const isPrime = (num) => {
   return true;
 };
 
-const description = 'Answer "yes" if the given number is prime. Otherwise answer "no".';
+const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
 const generateRound = () => {
   const question = getRandomInt(1, 100);
